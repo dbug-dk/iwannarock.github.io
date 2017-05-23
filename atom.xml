@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iwannarock.github.io/"/>
-  <updated>2017-04-29T19:13:13.607Z</updated>
+  <updated>2017-04-29T19:15:56.017Z</updated>
   <id>http://iwannarock.github.io/</id>
   
   <author>
@@ -20,11 +20,15 @@
     <link href="http://iwannarock.github.io/2017/04/30/first/"/>
     <id>http://iwannarock.github.io/2017/04/30/first/</id>
     <published>2017-04-29T19:13:13.000Z</published>
-    <updated>2017-04-29T19:13:13.607Z</updated>
+    <updated>2017-04-29T19:15:56.017Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="linux" scheme="http://iwannarock.github.io/categories/linux/"/>
+    
+      <category term="hello world" scheme="http://iwannarock.github.io/categories/linux/hello-world/"/>
     
     
   </entry>
